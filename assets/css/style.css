@@ -468,6 +468,20 @@ footer p {
   font-weight: 600;
   letter-spacing: 2px;
 }
+.contact-us {
+  float: right;
+}
+.contact-us a {
+  background-color: rgba(17, 100, 102);
+  color: #fff;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+  padding: 12px 20px;
+  display: inline-block;
+  outline: none;
+}
 
 @media screen and (max-width: 767px) {
   footer p {
